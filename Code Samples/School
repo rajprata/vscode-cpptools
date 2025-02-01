@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MALAV VIDHYA MANDIR H.S SCHOOL</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>MALAV VIDHYA MANDIR H.S SCHOOL</h1>
+        <p>Established in 1975 | Pardeshi Pura, Indore, Madhya Pradesh</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="admissions.html">Admissions</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Welcome to Our School</h2>
+        <p>Consistently good student percentage every year!</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 MALAV VIDHYA MANDIR H.S SCHOOL</p>
+    </footer>
+</body>
+</html> 
